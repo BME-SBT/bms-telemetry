@@ -13,3 +13,6 @@ wheels/
 # Claude
 vault/
 CLAUDE.md
+
+# Misc
+.DS_Store
